@@ -1,0 +1,16 @@
+hora de acorda:
+
+1- Acordo 
+2- abro o olho
+3- levanto da cama
+4- vou até o banheiro
+5- abro a porta do banheiro
+6- pego a escova de dentes
+7- passo a pasta
+8- escovo os dentes
+9- lavo o rosto
+10- seco o rosto
+11- vou a cozinha
+12- preparo o café 
+13- lavo a louça
+14- inicio o dia
